@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-u530zv.cuansalam.sbs/sitemap.xml
